@@ -27,8 +27,10 @@ h1{
 span{
     color: orange;
 }
-p{
+.half-width p,p{
     color: gray;
+    padding: 0px;
+    text-align: start;
 }
 .half-width a{
     padding: 10px 30px;
