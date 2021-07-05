@@ -1,0 +1,97 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0px;
+}
+/* Top Banner part */
+section{
+    margin-bottom: 100px;
+}
+.display-flex{
+    padding: 10px 40px;
+    display: flex;
+    padding-bottom: 0;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+.mt-100{
+    margin-top: 100px;
+}
+h1{
+    font-size: 40px;
+    margin: 5px 0px;
+}
+span{
+    color: orange;
+}
+p{
+    color: gray;
+}
+.half-width a{
+    padding: 10px 30px;
+    margin-top: 10px;
+    background-image: linear-gradient(orange ,tomato);
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    border-radius: 30px;
+    position: absolute;
+}
+/* Body Part */
+#back-img{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px 40px;
+    padding-bottom: 0;
+}
+#img-size{
+    width: 40%;
+    padding-bottom: 0;
+    margin:5px 0px 0px 130px;
+}
+.mt-50{
+    margin-top: 50px;
+}
+.color-gray{
+    color: gray;
+}
+/* Body part Recipies Section */
+.text-align{
+    text-align: center;
+}
+.width-33{
+    width: 33%;
+    box-shadow: 5px 5px 20px gray;
+    margin: 0px 15px 0px 15px;
+    padding: 10px;
+    border-radius: 30px;
+}
+.width-33 img{
+    width: 100%;
+}
+/* Body last part */
+#shadow{
+    box-shadow: 5px 5px 20px gray;
+    padding: 20px 40px;
+    margin: 0px 35px;
+    border-radius: 20px;
+}
+#shadow h3{
+    font-size: 30px;
+    font-weight: bolder;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+#shadow .mesurment{
+    width: 33%;
+    margin: 0px 20px 0px 20px;
+    text-align: center;
+}
+.mesurment p{
+    font-size: 15px;
+    margin-top: 0px;
+}
